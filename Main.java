@@ -1,5 +1,5 @@
 /**
- * Program description.
+ * output applied DACA article
  * @author Jihei Boun
  */
 public class Main
